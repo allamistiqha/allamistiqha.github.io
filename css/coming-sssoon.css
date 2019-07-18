@@ -29,7 +29,7 @@ body{
    opacity: 1; 
 } 
 .form-control:-ms-input-placeholder{
-   color: #FFFFFF;
+   color: #DDDDDD;
    opacity: 1; 
 }
 /*     General overwrite     */
